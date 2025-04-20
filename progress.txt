@@ -1,2 +1,3 @@
-Day: Today I created my basic files
-Day: Added a Sum Function
+Day1: Today I created my basic files
+Day2: Added a Sum Function
+Day3: Addess a Product Function
