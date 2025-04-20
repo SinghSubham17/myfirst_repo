@@ -1,0 +1,2 @@
+Day: Today I created my basic files
+Day: Added a Sum Function
